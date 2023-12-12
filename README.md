@@ -1,2 +1,3 @@
 # netWage
-A simple calculator for wage(net)
+🌐 Simple console net wage calculator! 🧮
+Made with java.
